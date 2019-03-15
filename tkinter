@@ -88,6 +88,6 @@ class Quiz:
 
 
 root = Tk()
-root.geometry("500x300")
+root.geometry("150x200")
 app = Quiz(root)
 root.mainloop()
